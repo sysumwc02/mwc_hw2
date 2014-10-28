@@ -1,3 +1,4 @@
+
 function changeTableLineColor(oTable) {
 	var oTbody = oTable.getElementsByTagName("tbody")[0];
 	var aTr = oTbody.getElementsByTagName("tr");
