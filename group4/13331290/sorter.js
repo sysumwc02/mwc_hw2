@@ -1,3 +1,6 @@
+//
+//add review message 
+//
 window.onload = function() {
 	var tables = getAllTables();
 	makeAllTablesSortable(tables);
